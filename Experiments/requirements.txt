@@ -1,0 +1,8 @@
+GPy==1.9.2
+jupyterlab==0.33.4
+matplotlib==2.2.2
+numpy==1.15.0
+pandas==0.23.3
+scikit-learn==0.19.2
+scipy==1.1.0
+seaborn==0.9.0
